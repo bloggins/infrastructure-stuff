@@ -1,1 +1,1 @@
-### If you are looking for cutting edge APT/Red Team backend DevOps, you should disgrard this and move on! All information here is basic and very simple! This was done as an education piece for me to understand infrastructure as code, deploy and maintain functional C2 services.
+### stuff
